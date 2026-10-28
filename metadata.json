@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Control de Caja Menor - Impresos El Día",
+  "description": "Sistema integral de gestión, control, arqueo y reportes de Caja Menor con extracción asistida por IA y cumplimiento normativo contable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
